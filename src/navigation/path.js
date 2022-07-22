@@ -1,0 +1,5 @@
+export const PATH_LOAN_LIMIT_REQ = "/loan/loan-limit-request"
+export const PATH_MY_LOAN_REQ = "/loan/my-loan-request"
+export const PATH_CONFIRMATION = "/confirmation"
+export const PATH_LOAN_SUBMIT = "/loan/submit-form"
+export const PATH_UPLOAD_AGGREMENT = "/loan/boost-loan-aggrement"
